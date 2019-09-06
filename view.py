@@ -22,4 +22,4 @@ class View:
         '''
         save the book
         '''
-        self.C.create_image(150, 150, image = img)
+        self.C.create_image(150, 150, image = img
